@@ -31,7 +31,14 @@ def digest() -> str:
 
 
 def run(command: list[str], *, check: bool = True) -> subprocess.CompletedProcess[str]:
-    return subprocess.run(command, check=check, capture_output=True, text=True)
+    result = subprocess.run(command, check=False, capture_output=True, text=True)
+    if check and result.returncode != 0:
+        message = (result.stderr or result.stdout or "Kaggle command failed").strip()
+        token = os.environ.get("KAGGLE_API_TOKEN")
+        if token:
+            message = message.replace(token, "***")
+        raise RuntimeError(message)
+    return result
 
 
 def dataset_exists() -> bool:
