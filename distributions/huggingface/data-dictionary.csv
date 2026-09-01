@@ -1,0 +1,9 @@
+field,type,description
+id,string,Agency recall or campaign identifier
+agency,string,Source agency: CPSC NHTSA or FDA
+date,date,Recall announcement date in YYYY-MM-DD format
+title,string,Official or normalized recall title
+category,string,KindlyKiddo child-product category
+hazard,string,Concise hazard summary from the official record
+remedy,string,Concise consumer remedy summary
+url,url,Official federal recall or enforcement-record URL

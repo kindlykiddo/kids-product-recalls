@@ -3,6 +3,8 @@ import fs from 'node:fs';
 const jsonPath = new URL('../data/kids-product-recalls.json', import.meta.url);
 const csvPath = new URL('../data/kids-product-recalls.csv', import.meta.url);
 const requiredFields = ['id', 'agency', 'date', 'title', 'category', 'hazard', 'remedy', 'url'];
+const huggingFaceCardPath = new URL('../distributions/huggingface/README.md', import.meta.url);
+const dataDictionaryPath = new URL('../distributions/huggingface/data-dictionary.csv', import.meta.url);
 
 const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
 if (!data || !Array.isArray(data.recalls) || data.recalls.length === 0) {
@@ -36,6 +38,22 @@ if (lines[0] !== requiredFields.join(',')) {
 }
 if (lines.length !== data.recalls.length + 1) {
   throw new Error('CSV row count does not match the JSON record count.');
+}
+
+const huggingFaceCard = fs.readFileSync(huggingFaceCardPath, 'utf8');
+if (!huggingFaceCard.includes('license: cc0-1.0')) {
+  throw new Error('Hugging Face dataset card must declare the CC0 license.');
+}
+if (!huggingFaceCard.includes('https://github.com/kindlykiddo/kids-product-recalls')) {
+  throw new Error('Hugging Face dataset card must link the canonical GitHub repository.');
+}
+if (!huggingFaceCard.includes('https://www.kindlykiddo.com/kids-product-recalls/')) {
+  throw new Error('Hugging Face dataset card must link the live tracker.');
+}
+
+const dictionaryLines = fs.readFileSync(dataDictionaryPath, 'utf8').trimEnd().split('\n');
+if (dictionaryLines.length !== requiredFields.length + 1) {
+  throw new Error('Hugging Face data dictionary must document every recall field.');
 }
 
 console.log(`Validated ${data.recalls.length} recall records.`);

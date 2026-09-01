@@ -11,7 +11,7 @@ Machine-readable CPSC, NHTSA, and FDA recall records for products made for or pr
 | JSON | [`data/kids-product-recalls.json`](data/kids-product-recalls.json) | [kindlykiddo.com JSON](https://www.kindlykiddo.com/data/kids-product-recalls.json) |
 | CSV | [`data/kids-product-recalls.csv`](data/kids-product-recalls.csv) | [kindlykiddo.com CSV](https://www.kindlykiddo.com/data/kids-product-recalls.csv) |
 
-The dataset is also published on [Hugging Face](https://huggingface.co/datasets/kindlykiddo/kids-product-recalls) with a browsable dataset card and viewer.
+The dataset is also published on [Hugging Face](https://huggingface.co/datasets/kindlykiddo/kids-product-recalls) with a browsable dataset card and viewer. The weekly GitHub workflow synchronizes both public repositories from the canonical live exports.
 
 ```bash
 curl -fsSL https://www.kindlykiddo.com/data/kids-product-recalls.json

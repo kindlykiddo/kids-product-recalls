@@ -41,3 +41,16 @@ jobs:
           git add data/kids-product-recalls.json data/kids-product-recalls.csv
           git commit -m "data: weekly refresh $(date -u +%F)"
           git push
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          cache: pip
+
+      - name: Install Hugging Face client
+        run: python -m pip install --disable-pip-version-check huggingface-hub==1.8.0
+
+      - name: Sync Hugging Face dataset
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python scripts/sync-huggingface.py
