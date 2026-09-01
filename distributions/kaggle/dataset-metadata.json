@@ -1,0 +1,73 @@
+{
+  "title": "Kids' Product Recalls: CPSC, NHTSA and FDA",
+  "subtitle": "Weekly child-product recall records with hazards, remedies and official links",
+  "description": "A normalized weekly dataset of U.S. federal recalls for products made for or primarily used by children. Records come from CPSC, NHTSA and FDA sources and include the announcement date, product category, hazard, consumer remedy and official notice URL. The canonical live tracker is https://www.kindlykiddo.com/kids-product-recalls/ and the public source repository is https://github.com/kindlykiddo/kids-product-recalls.",
+  "id": "kindlykiddo/kids-product-recalls",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "resources": [
+    {
+      "path": "kids-product-recalls.csv",
+      "description": "Flat weekly recall dataset for analysis.",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "description": "Agency recall or campaign identifier",
+            "type": "id"
+          },
+          {
+            "name": "agency",
+            "description": "Source agency: CPSC, NHTSA or FDA",
+            "type": "string"
+          },
+          {
+            "name": "date",
+            "description": "Recall announcement date",
+            "type": "datetime"
+          },
+          {
+            "name": "title",
+            "description": "Official or normalized recall title",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "description": "KindlyKiddo child-product category",
+            "type": "string"
+          },
+          {
+            "name": "hazard",
+            "description": "Concise hazard summary from the official record",
+            "type": "string"
+          },
+          {
+            "name": "remedy",
+            "description": "Concise consumer remedy summary",
+            "type": "string"
+          },
+          {
+            "name": "url",
+            "description": "Official federal recall or enforcement-record URL",
+            "type": "url"
+          }
+        ]
+      }
+    },
+    {
+      "path": "kids-product-recalls.json",
+      "description": "Recall records plus refresh, coverage, source, license and repository metadata."
+    }
+  ],
+  "keywords": [
+    "public safety",
+    "children",
+    "consumer products",
+    "government"
+  ],
+  "expectedUpdateFrequency": "weekly",
+  "userSpecifiedSources": "[CPSC recalls](https://www.cpsc.gov/Recalls), [NHTSA recalls](https://www.nhtsa.gov/recalls), and [FDA enforcement reports](https://www.accessdata.fda.gov/scripts/ires/), normalized by [KindlyKiddo](https://www.kindlykiddo.com/kids-product-recalls/)."
+}
