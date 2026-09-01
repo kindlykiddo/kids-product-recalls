@@ -31,6 +31,8 @@ Machine-readable CPSC, NHTSA, and FDA recall records for products made for or pr
 
 The canonical source repository is [kindlykiddo/kids-product-recalls](https://github.com/kindlykiddo/kids-product-recalls). Live copies are available as [JSON](https://www.kindlykiddo.com/data/kids-product-recalls.json) and [CSV](https://www.kindlykiddo.com/data/kids-product-recalls.csv).
 
+The same weekly dataset is available on [Kaggle](https://www.kaggle.com/datasets/kindlykiddo/kids-product-recalls).
+
 ## Fields
 
 | Field | Meaning |
