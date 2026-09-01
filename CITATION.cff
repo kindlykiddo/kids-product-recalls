@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this normalized dataset, please cite it using the metadata below."
+title: "KindlyKiddo Kids' Product Recall Data"
+type: dataset
+authors:
+  - name: KindlyKiddo
+repository-code: "https://github.com/enrgynix/kindlykiddo-kids-product-recalls"
+url: "https://www.kindlykiddo.com/kids-product-recalls/"
+license: CC0-1.0
+keywords:
+  - product recalls
+  - child safety
+  - CPSC
+  - NHTSA
+  - FDA
+  - open data

@@ -1,0 +1,43 @@
+name: Update recall data
+
+on:
+  schedule:
+    - cron: '17 14 * * 2'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-recall-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download current KindlyKiddo exports
+        run: |
+          curl --fail --silent --show-error --location --retry 3 \
+            https://www.kindlykiddo.com/data/kids-product-recalls.json \
+            --output data/kids-product-recalls.json
+          curl --fail --silent --show-error --location --retry 3 \
+            https://www.kindlykiddo.com/data/kids-product-recalls.csv \
+            --output data/kids-product-recalls.csv
+
+      - name: Validate downloads
+        run: node scripts/validate.mjs
+
+      - name: Commit changed data
+        run: |
+          if git diff --quiet -- data/; then
+            echo "Recall data is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/kids-product-recalls.json data/kids-product-recalls.csv
+          git commit -m "data: weekly refresh $(date -u +%F)"
+          git push
