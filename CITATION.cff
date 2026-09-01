@@ -4,7 +4,7 @@ title: "KindlyKiddo Kids' Product Recall Data"
 type: dataset
 authors:
   - name: KindlyKiddo
-repository-code: "https://github.com/enrgynix/kindlykiddo-kids-product-recalls"
+repository-code: "https://github.com/kindlykiddo/kids-product-recalls"
 url: "https://www.kindlykiddo.com/kids-product-recalls/"
 license: CC0-1.0
 keywords:

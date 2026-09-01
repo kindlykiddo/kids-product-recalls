@@ -1,6 +1,6 @@
 # KindlyKiddo Kids’ Product Recall Data
 
-[![Update recall data](https://github.com/enrgynix/kindlykiddo-kids-product-recalls/actions/workflows/update-data.yml/badge.svg)](https://github.com/enrgynix/kindlykiddo-kids-product-recalls/actions/workflows/update-data.yml)
+[![Update recall data](https://github.com/kindlykiddo/kids-product-recalls/actions/workflows/update-data.yml/badge.svg)](https://github.com/kindlykiddo/kids-product-recalls/actions/workflows/update-data.yml)
 
 Machine-readable CPSC, NHTSA, and FDA recall records for products made for or primarily used by children. The dataset is normalized by [KindlyKiddo](https://www.kindlykiddo.com/kids-product-recalls/) and refreshed weekly from official U.S. federal sources.
 

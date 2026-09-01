@@ -2,7 +2,7 @@
   "title": "Kids' Product Recalls",
   "description": "Normalized CPSC, NHTSA, and FDA recall records for children's products, refreshed weekly by KindlyKiddo.",
   "homepage": "https://www.kindlykiddo.com/kids-product-recalls/",
-  "repository": "https://github.com/enrgynix/kindlykiddo-kids-product-recalls",
+  "repository": "https://github.com/kindlykiddo/kids-product-recalls",
   "fetchedAt": "2026-08-31T20:55:27.008Z",
   "coverage": {
     "recordCount": 200,
