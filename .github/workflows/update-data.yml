@@ -47,7 +47,7 @@ jobs:
           python-version: '3.13'
 
       - name: Install dataset publishing clients
-        run: python -m pip install --disable-pip-version-check huggingface-hub==1.8.0 kaggle==1.7.4.5
+        run: python -m pip install --disable-pip-version-check huggingface-hub==1.8.0 kaggle==2.2.0
 
       - name: Sync Hugging Face dataset
         env:
