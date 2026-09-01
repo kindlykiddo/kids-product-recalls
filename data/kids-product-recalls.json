@@ -3,11 +3,11 @@
   "description": "Normalized CPSC, NHTSA, and FDA recall records for children's products, refreshed weekly by KindlyKiddo.",
   "homepage": "https://www.kindlykiddo.com/kids-product-recalls/",
   "repository": "https://github.com/enrgynix/kindlykiddo-kids-product-recalls",
-  "fetchedAt": "2026-08-24T17:18:18.428Z",
+  "fetchedAt": "2026-08-31T20:55:27.008Z",
   "coverage": {
     "recordCount": 200,
-    "startDate": "2025-04-24",
-    "endDate": "2026-08-13"
+    "startDate": "2025-05-22",
+    "endDate": "2026-08-20"
   },
   "officialSources": [
     "https://www.cpsc.gov/Recalls",
@@ -16,6 +16,16 @@
   ],
   "license": "https://www.usa.gov/government-works",
   "recalls": [
+    {
+      "id": "26C006000",
+      "agency": "NHTSA",
+      "date": "2026-08-20",
+      "title": "Britax Child Safety, Inc. Recalls Child Restraints: Child Seat Carrying Handle May Detach",
+      "category": "Car Seats",
+      "hazard": "A child may fall after a partial detachment, increasing the risk of injury.",
+      "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
+    },
     {
       "id": "26-688",
       "agency": "CPSC",
@@ -137,6 +147,16 @@
       "url": "https://www.cpsc.gov/Recalls/2026/Syera-Projecting-Finger-Light-Toys-Recalled-Due-to-Risk-of-Serious-Injury-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-TEMU-by-Senyu"
     },
     {
+      "id": "26C005000",
+      "agency": "NHTSA",
+      "date": "2026-08-06",
+      "title": "Evenflo Company, Inc. Recalls Child Restraints: Incorrect Indicator for Recline Position/FMVSS 213",
+      "category": "Car Seats",
+      "hazard": "A child seat that is not reclined as intended increases the risk of injury in a crash.",
+      "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed beginning September 1, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C005000"
+    },
+    {
       "id": "26-651",
       "agency": "CPSC",
       "date": "2026-07-30",
@@ -215,6 +235,16 @@
       "hazard": "The snap can detach from the recalled bibs and stroller bags, posing a risk of serious injury or death from a choking hazard to young children.",
       "remedy": "Consumers should take the recalled baby bibs and stroller bags away from children immediately, stop using them, and contact Peony Design to receive a full refund. Consumers will be asked to discard the recalled baby bibs and stroller bags.",
       "url": "https://www.cpsc.gov/Recalls/2026/Peony-Design-Recalls-Personalized-Baby-Bibs-and-Stroller-Bags-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard"
+    },
+    {
+      "id": "26C004000",
+      "agency": "NHTSA",
+      "date": "2026-07-17",
+      "title": "Evenflo Company, Inc. Recalls Child Restraints: Headrest Position May Shift in a Crash/FMVSS 213",
+      "category": "Car Seats",
+      "hazard": "A headrest that shifts unexpectedly may increase the risk of injury in a crash.",
+      "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed August 17, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C004000"
     },
     {
       "id": "26-617",
@@ -717,6 +747,16 @@
       "url": "https://www.cpsc.gov/Recalls/2026/JC-Sales-Recalls-Lil-Buddies-Pet-Laser-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Hazard-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries"
     },
     {
+      "id": "26C003000",
+      "agency": "NHTSA",
+      "date": "2026-04-03",
+      "title": "Graco Children's Products, Inc. Recalls Child Restraints: Child Seat May Detach from Base/FMVSS 213",
+      "category": "Car Seats",
+      "hazard": "An infant seat carrier that detaches in a crash increases the risk of injury.",
+      "remedy": "Owners are advised to follow the instructions for installing the child seat with the vehicle seat belt (without the base) until the replacement seat arrives. Graco will replace the child seat, free of charge. Owner notification letters were mailed May 22, 2026.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C003000"
+    },
+    {
       "id": "26-365",
       "agency": "CPSC",
       "date": "2026-04-02",
@@ -947,6 +987,16 @@
       "url": "https://www.cpsc.gov/Recalls/2026/Babysense-Max-View-Baby-Monitors-Recalled-Due-to-Fire-Hazard-Manufactured-by-Hisense"
     },
     {
+      "id": "26C002000",
+      "agency": "NHTSA",
+      "date": "2026-02-25",
+      "title": "Evenflo Company, Inc. Recalls Child Restraints: Incorrect Information in Spanish Language Manual/FMVSS 213",
+      "category": "Car Seats",
+      "hazard": "Incorrect information in the manual may result in an improperly restrained child, increasing the risk of injury in a crash.",
+      "remedy": "Evenflo will mail owners a corrected Spanish language manual, free of charge. Owner notification letters were mailed April 21, 2026. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C002000"
+    },
+    {
       "id": "26-287",
       "agency": "CPSC",
       "date": "2026-02-24",
@@ -1097,6 +1147,16 @@
       "url": "https://www.cpsc.gov/Recalls/2026/Mikario-Trading-Convertible-Baby-Gyms-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standard-for-Infant-Support-Cushions-Sold-on-TikTok-Shop"
     },
     {
+      "id": "26C001000",
+      "agency": "NHTSA",
+      "date": "2026-01-20",
+      "title": "Evenflo Company, Inc. Recalls Child Restraints: Child Seat Missing Tether Strap",
+      "category": "Car Seats",
+      "hazard": "A child seat with a missing tether strap may not adequately protect a child in a crash, increasing the risk of injury.",
+      "remedy": "Evenflo will advise owners to inspect their child seat for a tether strap, and Evenflo will mail owners a tether strap with installation instructions, as necessary, free of charge. Owner notification letters were mailed March 13, 2026. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C001000"
+    },
+    {
       "id": "26-185",
       "agency": "CPSC",
       "date": "2026-01-15",
@@ -1185,6 +1245,16 @@
       "hazard": "The recalled baby loungers violate the mandatory safety standard for Sleep Products. The sides are too low to contain an infant and the enclosed openings at the foot of the loungers are wider than allowed, posing serious risks of fall and entrapment hazards to infants.",
       "remedy": "Consumers should immediately stop using the recalled baby loungers and contact Joyful Journeys for a full refund. Consumers should remove the foam and pads from the baby lounger’s cover and cut the cover, foam, and pad in half.",
       "url": "https://www.cpsc.gov/Recalls/2026/Joyful-Journeys-Recalls-Baby-Loungers-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Fall-Hazards-Violates-Mandatory-Standard-for-Infant-Sleep-Products"
+    },
+    {
+      "id": "25C011000",
+      "agency": "NHTSA",
+      "date": "2025-12-24",
+      "title": "Evenflo Company, Inc. Recalls Child Restraints: Recline Position May Shift/FMVSS 213",
+      "category": "Car Seats",
+      "hazard": "A child seat that does not maintain proper recline position may not adequately secure a child in a crash, increasing the risk of injury. Additionally, should another passenger put their hand in the recline mechanism when it shifts out of position, their risk of injury is increased.",
+      "remedy": "Evenflo will replace the child seat, free of charge. Owner notification letters were mailed beginning February 18, 2026. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C011000"
     },
     {
       "id": "26-164",
@@ -1557,6 +1627,16 @@
       "url": "https://www.cpsc.gov/Recalls/2025/AMTRADING-Recalls-Hoovy-Cooling-Gel-Insert-Pads-for-Car-Seats-and-Strollers-Due-to-Burn-Hazard"
     },
     {
+      "id": "25C010000",
+      "agency": "NHTSA",
+      "date": "2025-09-25",
+      "title": "Evenflo Company, Inc. Recalls Child Restraints: Choking Hazard from Foam in Child Seat Headrest",
+      "category": "Car Seats",
+      "hazard": "Pieces of foam can present a choking hazard to a child, increasing the risk of injury.",
+      "remedy": "Evenflo will mail owners additional tape seal and installation instructions, free of charge. Owner notification letters were mailed November 21, 2025. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C010000"
+    },
+    {
       "id": "25-471",
       "agency": "CPSC",
       "date": "2025-09-18",
@@ -1807,6 +1887,16 @@
       "url": "https://www.cpsc.gov/Recalls/2025/TADAKAZU-Baby-Loungers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Fall-and-Entrapment-Hazards-Violations-of-Federal-Standard-for-Infant-Sleep-Products-Sold-on-Amazon"
     },
     {
+      "id": "25C008000",
+      "agency": "NHTSA",
+      "date": "2025-06-18",
+      "title": "Evenflo Company, Inc. Recalls Child Restraints: Missing Instruction Manual/FMVSS 213",
+      "category": "Car Seats",
+      "hazard": "A child seat with an incorrect instruction manual may result in improper installation and an improperly restrained child, which can increase the risk of injury in a crash.",
+      "remedy": "Evenflo will mail owners information on how to inspect and replace the instruction manual, free of charge. Owner notification letters were mailed July 15, 2025. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C008000"
+    },
+    {
       "id": "25-336",
       "agency": "CPSC",
       "date": "2025-06-12",
@@ -1917,16 +2007,6 @@
       "url": "https://www.cpsc.gov/Recalls/2025/The-Step2-Company-Recalls-My-First-Snowman-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard"
     },
     {
-      "id": "25-290",
-      "agency": "CPSC",
-      "date": "2025-05-22",
-      "title": "Nezmdi Infant Swings Recalled Due to Risk of Serious Injury or Death from Suffocation Hazard; Multiple Federal Safety Violations; Sold Exclusively on Amazon.com by Nezmdi",
-      "category": "Cribs & Sleep",
-      "hazard": "The swings pose a suffocation hazard and a risk of serious injury or death to babies, because they were marketed for infant sleep and have an incline angle greater than 10 degrees, in violation of the Sleep for Babies Act.",
-      "remedy": "Consumers should stop using the recalled infant swings immediately and contact Nezmdi for a full refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Nezmdi-Infant-Swings-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Hazard-Multiple-Federal-Safety-Violations-Sold-Exclusively-on-Amazon-com-by-Nezmdi"
-    },
-    {
       "id": "25-291",
       "agency": "CPSC",
       "date": "2025-05-22",
@@ -1935,86 +2015,6 @@
       "hazard": "The elastic on the pajamas’ ankles can be too tight and restrict blood circulation, posing an injury hazard.",
       "remedy": "Consumers should immediately stop using the recalled pajamas, take them away from children and contact Macy’s for instructions on how to receive a refund. Consumers should not return the recalled pajamas to the stores.",
       "url": "https://www.cpsc.gov/Recalls/2025/Macys-Recalls-Holiday-Lane-Infant-Footed-Pajamas-Due-to-Injury-Hazard-Sold-Exclusively-by-Macys"
-    },
-    {
-      "id": "25-294",
-      "agency": "CPSC",
-      "date": "2025-05-22",
-      "title": "Primark Recalls DTR Plush Bag Stitch and DTR Plush Bag Angel Due to Choking and Ingestion Hazards",
-      "category": "Toys & Games",
-      "hazard": "The zipper pull on the back of the plush bags can detach, posing a risk of serious injury or death from choking and/or ingestion of the zipper pull.",
-      "remedy": "Consumers should immediately take the recalled plush bags away from children, stop using them and return them to a Primark store for a full refund in the form of the original payment.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Primark-Recalls-DTR-Plush-Bag-Stitch-and-DTR-Plush-Bag-Angel-Due-to-Choking-and-Ingestion-Hazards"
-    },
-    {
-      "id": "25-278",
-      "agency": "CPSC",
-      "date": "2025-05-15",
-      "title": "Boyro Baby Recalls High Chairs Due to Risk of Serious Injury or Death from Fall and Entrapment Hazards; Violations of Federal Regulations for High Chairs; Sold Exclusively on Amazon.com",
-      "category": "Feeding & High Chairs",
-      "hazard": "The high chairs pose a deadly fall hazard to babies because the restraint system is not attached to the product and the locks or latches can fail.",
-      "remedy": "Consumers should stop using and disassemble the recalled high chairs immediately and contact Boyro Baby for instructions on receiving a full refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Boyro-Baby-Recalls-High-Chairs-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violations-of-Federal-Regulations-for-High-Chairs-Sold-Exclusively-on-Amazon-com"
-    },
-    {
-      "id": "25-281",
-      "agency": "CPSC",
-      "date": "2025-05-15",
-      "title": "Fat Brain Recalls Rollers Tile Toys Used in PlayTab Modular Activity Boards Due to Magnet Ingestion Hazard; Risk of Serious Injury or Death; Violation of Federal Regulations for Toy Magnets",
-      "category": "Toys & Games",
-      "hazard": "The recalled rollers tile toy violates the mandatory federal regulation for toy magnets because it contains a magnet that can become loose, posing an ingestion hazard to children.",
-      "remedy": "Consumers should stop using the rollers tile toys immediately and contact the firm for instructions on how to dispose of the product to obtain a $10 credit for use at fatbraintoys.com, or a replacement PlayTab tile. Fat Brain Toy Co. is contacting all known purchasers directly.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Fat-Brain-Recalls-Rollers-Tile-Toys-Used-in-PlayTab-Modular-Activity-Boards-Due-to-Magnet-Ingestion-Hazard-Risk-of-Serious-Injury-or-Death-Violation-of-Federal-Regulations-for-Toy-Magnets"
-    },
-    {
-      "id": "25-285",
-      "agency": "CPSC",
-      "date": "2025-05-15",
-      "title": "FidgetThings Recalls Chill Pill Magnetic Haptic Fidget Toys Red Bumpy Due to Risk of Serious Injury or Death from Ingestion; Violation of Federal Regulations for Magnets; Sold Exclusively on FidgetThings.com",
-      "category": "Toys & Games",
-      "hazard": "The recalled magnetic fidget pill toy violates the mandatory federal regulation for magnets, posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other, or another metal object, and become lodged in the digestive system.",
-      "remedy": "Consumers should stop using the magnetic fidget pill toys immediately and take them away from children. Contact FidgetThings via email at fidgetthings@gmail.com to receive a pre-paid label to return the toy, or for instructions on how to dispose of the toy, to receive a full refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/FidgetThings-Recalls-Chill-Pill-Magnetic-Haptic-Fidget-Toys-Red-Bumpy-Due-to-Risk-of-Serious-Injury-or-Death-from-Ingestion-Violation-of-Federal-Regulations-for-Magnets-Sold-Exclusively-on-FidgetThings-com"
-    },
-    {
-      "id": "H-0005-2025",
-      "agency": "FDA",
-      "date": "2025-05-09",
-      "title": "Publix Super Markets, Inc. Recalls Greenwise Pear Kiwi Spinach & Pea Baby Food Pouch. Net Wt 4 oz. (113g). Stage 2 6 months+, Best if\" date of 11/01/2025.",
-      "category": "Feeding & High Chairs",
-      "hazard": "Elevated levels of Lead, cadmium and arsenic",
-      "remedy": "FDA Class II enforcement recall; status: terminated.",
-      "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=96883"
-    },
-    {
-      "id": "25-252",
-      "agency": "CPSC",
-      "date": "2025-05-08",
-      "title": "Xylolin Peg Doll Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violation of Federal Regulations for Toys; Sold Exclusively on Amazon.com by Babywants",
-      "category": "Toys & Games",
-      "hazard": "The peg dolls’ spherical ends can block the child’s airway, posing a risk of choking and death to children.",
-      "remedy": "Consumers should take the product away from children immediately, dispose of the product and send a picture to Babywants for a full refund. Amazon is contacting all known purchasers directly.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Xylolin-Peg-Doll-Toy-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violation-of-Federal-Regulations-for-Toys-Sold-Exclusively-on-Amazon-com-by-Babywants"
-    },
-    {
-      "id": "25-237",
-      "agency": "CPSC",
-      "date": "2025-04-24",
-      "title": "Deals Oasis Recalls Shape Sorter Car Toys Due to Choking Hazard; Violation of Small Parts Requirements; Risk of Serious Injury or Death",
-      "category": "Toys & Games",
-      "hazard": "The recalled shape sorter car toys contain balls that violate regulations banning small parts in toys intended for children under three years of age because they are a choking hazard, and can cause serious injury or death.",
-      "remedy": "Consumers should stop using the recalled shape sorter car toys immediately and contact Deals Oasis for information on how to return the product for a full refund. Amazon is contacting all known purchasers directly.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Deals-Oasis-Recalls-Shape-Sorter-Car-Toys-Due-to-Choking-Hazard-Violation-of-Small-Parts-Requirements-Risk-of-Serious-Injury-or-Death"
-    },
-    {
-      "id": "25-239",
-      "agency": "CPSC",
-      "date": "2025-04-24",
-      "title": "Huffy Recalls Torex UTV Ride-On Toys Due to Fire Hazard; Sold Exclusively at Walmart",
-      "category": "Bikes, Scooters & Ride-ons",
-      "hazard": "The recalled ride-on toys can overheat due to improper wiring, posing a fire hazard.",
-      "remedy": "Consumers should immediately stop using the recalled UTVs and contact Huffy Corporation to schedule a free repair. Consumers can have the repair done by a third party. Huffy Corporation will reimburse consumers up to $50 for charges incurred in the third-party repair.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Huffy-Recalls-Torex-UTV-Ride-On-Toys-Due-to-Fire-Hazard-Sold-Exclusively-at-Walmart"
     }
   ]
 }
