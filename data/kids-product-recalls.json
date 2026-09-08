@@ -3,11 +3,11 @@
   "description": "Normalized CPSC, NHTSA, and FDA recall records for children's products, refreshed weekly by KindlyKiddo.",
   "homepage": "https://www.kindlykiddo.com/kids-product-recalls/",
   "repository": "https://github.com/kindlykiddo/kids-product-recalls",
-  "fetchedAt": "2026-08-31T20:55:27.008Z",
+  "fetchedAt": "2026-09-07T19:16:54.268Z",
   "coverage": {
     "recordCount": 200,
-    "startDate": "2025-05-22",
-    "endDate": "2026-08-20"
+    "startDate": "2025-05-29",
+    "endDate": "2026-08-27"
   },
   "officialSources": [
     "https://www.cpsc.gov/Recalls",
@@ -16,6 +16,46 @@
   ],
   "license": "https://www.usa.gov/government-works",
   "recalls": [
+    {
+      "id": "26-719",
+      "agency": "CPSC",
+      "date": "2026-08-27",
+      "title": "HABA USA Recalls Rainbow Rattle Grasping and Teething Toys Due to Risk of Serious Injury or Death from Choking and Ingestion Hazards",
+      "category": "Feeding & High Chairs",
+      "hazard": "The glued knot on the elastic cord can become untied on the recalled product, allowing young children access to the small wooden and plastic pieces, posing a risk of serious injury or death from choking and ingestion hazards.",
+      "remedy": "Consumers should stop using the rattle grasping and teething toy immediately, take it away from children and contact HABA USA to receive a full refund.",
+      "url": "https://www.cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards"
+    },
+    {
+      "id": "26-721",
+      "agency": "CPSC",
+      "date": "2026-08-27",
+      "title": "Kmaier Recalls Infant Walkers Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers",
+      "category": "Strollers & Carriers",
+      "hazard": "The recalled walkers violate the mandatory standard for infant walkers because they can fit through a standard doorway and fail to stop at the edge of a step, posing a deadly fall hazard.",
+      "remedy": "Consumers should stop using the recalled walkers immediately and contact Kmaier for a full refund.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Kmaier-Recalls-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers"
+    },
+    {
+      "id": "26-724",
+      "agency": "CPSC",
+      "date": "2026-08-27",
+      "title": "Little Loves & Co. Recalls Youth Clothing with Drawstrings Due to Risk of Serious Injury or Death from Entrapment Hazard",
+      "category": "Children's Clothing & Accessories",
+      "hazard": "The drawstrings in the recalled clothing can get caught on objects and cause death or serious injury to children due to an entrapment hazard.",
+      "remedy": "Consumers should take the recalled clothing away from children immediately and contact Little Loves & Co. for a full refund after return of the product. Consumers should contact Little Loves & Co. to receive a pre-paid shipping label to return the garment.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Little-Loves-Co-Recalls-Youth-Clothing-with-Drawstrings-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Hazard"
+    },
+    {
+      "id": "26-727",
+      "agency": "CPSC",
+      "date": "2026-08-27",
+      "title": "Montessori Baby Toy Sets Recalled Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys; Sold on Amazon by Chillife Official",
+      "category": "Toys & Games",
+      "hazard": "The recalled baby toy sets contain a pull string teething toy that violates the mandatory standard for toys because the silicone strings are smaller and longer than permitted.",
+      "remedy": "Consumers should stop using the pull string teether toys immediately, take them away from children and contact Chillife Official for a partial refund of $5.40.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Montessori-Baby-Toy-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Chillife-Official"
+    },
     {
       "id": "26C006000",
       "agency": "NHTSA",
@@ -153,7 +193,7 @@
       "title": "Evenflo Company, Inc. Recalls Child Restraints: Incorrect Indicator for Recline Position/FMVSS 213",
       "category": "Car Seats",
       "hazard": "A child seat that is not reclined as intended increases the risk of injury in a crash.",
-      "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed beginning September 1, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed beginning September 1, 2026. Additional letters will be sent once the remedy is available, anticipated November 2026.",
       "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C005000"
     },
     {
@@ -1975,46 +2015,6 @@
       "hazard": "The recalled faucets were tested and found to contain lead that can leach into water at levels that can be particularly harmful to infants and young children.",
       "remedy": "Consumers should immediately stop using these faucets and contact Chenfeng Store about disposal and a refund. Consumers will need to provide a photograph of disposal to receive the refund.",
       "url": "https://www.cpsc.gov/Recalls/2025/BASDEHEN-Brand-Kitchen-Faucets-Recalled-Due-to-Dangerous-Lead-Exposure-for-Young-Children-Sold-on-Amazon-com-by-Chenfeng-Store"
-    },
-    {
-      "id": "25-306",
-      "agency": "CPSC",
-      "date": "2025-05-29",
-      "title": "KICIMPRO Brand Kitchen Faucets Recalled Due to Dangerous Lead Exposure for Young Children; Sold on Amazon.com by Kicimpro",
-      "category": "Other Children's Products",
-      "hazard": "The recalled faucets were tested and found to contain lead that can leach into water at levels that can be particularly harmful to infants and young children.Lead ingestion can cause harmful neurological effects on infants and young children, including attention-related behavioral problems, decrease…",
-      "remedy": "Consumers should immediately stop using these faucets and contact Kicimpro about disposal and a refund. Consumers will need to provide a photograph of disposal and their order number to receive the refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/KICIMPRO-Brand-Kitchen-Faucets-Recalled-Due-to-Dangerous-Lead-Exposure-for-Young-Children-Sold-on-Amazon-com-by-Kicimpro"
-    },
-    {
-      "id": "25-307",
-      "agency": "CPSC",
-      "date": "2025-05-29",
-      "title": "VFAUOSIT Brand Kitchen Faucets Recalled Due to Dangerous Lead Exposure for Young Children; Sold on Amazon.com by Whisper08",
-      "category": "Other Children's Products",
-      "hazard": "The recalled faucets were tested and found to contain lead that can leach into water at levels that can be particularly harmful to infants and young children.",
-      "remedy": "Consumers should immediately stop using these faucets and contact Whisper08 about disposal and a refund. Consumers will need to provide a photograph of disposal and their order number to receive the refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/VFAUOSIT-Brand-Kitchen-Faucets-Recalled-Due-to-Dangerous-Lead-Exposure-for-Young-Children-Sold-on-Amazon-com-by-Whisper08"
-    },
-    {
-      "id": "25-308",
-      "agency": "CPSC",
-      "date": "2025-05-29",
-      "title": "The Step2 Company Recalls My First Snowman Toys Due to Risk of Serious Injury or Death from Choking Hazard",
-      "category": "Toys & Games",
-      "hazard": "The top hat on the recalled snowman can break into small pieces, posing a risk of serious injury or death to small children from choking.",
-      "remedy": "Consumers should stop using the recalled snowman immediately, take off the toy snowman’s hat and keep it away from children. Contact The Step2 Company for instructions on how to dispose of the top hat and receive a free replacement. The Step2 Company is notifying all known purchasers directly.",
-      "url": "https://www.cpsc.gov/Recalls/2025/The-Step2-Company-Recalls-My-First-Snowman-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard"
-    },
-    {
-      "id": "25-291",
-      "agency": "CPSC",
-      "date": "2025-05-22",
-      "title": "Macy’s Recalls Holiday Lane Infant Footed Pajamas Due to Injury Hazard; Sold Exclusively by Macy’s",
-      "category": "Other Children's Products",
-      "hazard": "The elastic on the pajamas’ ankles can be too tight and restrict blood circulation, posing an injury hazard.",
-      "remedy": "Consumers should immediately stop using the recalled pajamas, take them away from children and contact Macy’s for instructions on how to receive a refund. Consumers should not return the recalled pajamas to the stores.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Macys-Recalls-Holiday-Lane-Infant-Footed-Pajamas-Due-to-Injury-Hazard-Sold-Exclusively-by-Macys"
     }
   ]
 }
