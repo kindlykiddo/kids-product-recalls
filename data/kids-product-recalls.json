@@ -3,11 +3,11 @@
   "description": "Normalized CPSC, NHTSA, and FDA recall records for children's products, refreshed weekly by KindlyKiddo.",
   "homepage": "https://www.kindlykiddo.com/kids-product-recalls/",
   "repository": "https://github.com/kindlykiddo/kids-product-recalls",
-  "fetchedAt": "2026-09-07T19:16:54.268Z",
+  "fetchedAt": "2026-09-14T19:54:20.909Z",
   "coverage": {
     "recordCount": 200,
-    "startDate": "2025-05-29",
-    "endDate": "2026-08-27"
+    "startDate": "2025-06-05",
+    "endDate": "2026-09-03"
   },
   "officialSources": [
     "https://www.cpsc.gov/Recalls",
@@ -16,6 +16,46 @@
   ],
   "license": "https://www.usa.gov/government-works",
   "recalls": [
+    {
+      "id": "26-732",
+      "agency": "CPSC",
+      "date": "2026-09-03",
+      "title": "SHEIN Distribution Corporation Recalls Spiral Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Small Ball Ban",
+      "category": "Toys & Games",
+      "hazard": "The toys violate the small ball ban because they contain small balls and are intended for children under three years of age, posing a deadly choking hazard.",
+      "remedy": "Consumers should stop using the recalled toys immediately, take them away from children and contact SHEIN for a full refund. Consumers will be asked to affirm they disposed of the entire toy, including the small balls.",
+      "url": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban"
+    },
+    {
+      "id": "26-737",
+      "agency": "CPSC",
+      "date": "2026-09-03",
+      "title": "OKK Trading Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The squishy bun toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard.",
+      "remedy": "Consumers should stop using the squishy dumpling toys immediately and contact OKK Trading for a full refund.",
+      "url": "https://www.cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
+    {
+      "id": "26-738",
+      "agency": "CPSC",
+      "date": "2026-09-03",
+      "title": "GIHNJSI Squeezy Dumplings Toys Recalled Due to Serious Ingestion, Choking and Obstruction Hazards; Sold on Amazon by Chenyuanhui",
+      "category": "Toys & Games",
+      "hazard": "The squeezy toys contain water beads. If ingested, water beads expand and can pose deadly ingestion, choking, and intestinal obstruction hazards inside a child’s body, resulting in severe discomfort, vomiting, dehydration, and a risk of death to a child.",
+      "remedy": "Consumers should stop using the Squeezy Dumplings toys immediately and contact Chenyuanhui for a full refund.",
+      "url": "https://www.cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui"
+    },
+    {
+      "id": "26-739",
+      "agency": "CPSC",
+      "date": "2026-09-03",
+      "title": "Skip Hop Recalls Baby Sesame Street Elmo Silicone Teethers Due to Risk of Serious Injury or Death from Choking Hazard",
+      "category": "Feeding & High Chairs",
+      "hazard": "The black eyes can detach from the recalled teether if frozen, posing a risk of serious injury or death from a choking hazard.",
+      "remedy": "Consumers should stop using the recalled teether immediately, take it away from children and contact Skip Hop Inc. at to obtain a refund in the form of a gift card and further instructions on disposal of the product.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard"
+    },
     {
       "id": "26-719",
       "agency": "CPSC",
@@ -283,7 +323,7 @@
       "title": "Evenflo Company, Inc. Recalls Child Restraints: Headrest Position May Shift in a Crash/FMVSS 213",
       "category": "Car Seats",
       "hazard": "A headrest that shifts unexpectedly may increase the risk of injury in a crash.",
-      "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed August 17, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, were mailed September 1, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
       "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C004000"
     },
     {
@@ -1473,7 +1513,7 @@
       "title": "A New Life Herbs, LLC Recalls Baby Soothe Herbal Supplement, Promotes rest, helps ease colic, upset stomach, and teething discomfort, Contains: Catnip, Chamomile, Vegetable Glycerin, water;…",
       "category": "Feeding & High Chairs",
       "hazard": "Unapproved drug claims on product labeling and product misbranded due to no Supplement Facts label",
-      "remedy": "FDA Class II enforcement recall; status: ongoing.",
+      "remedy": "FDA Class II enforcement recall; status: terminated.",
       "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=98037"
     },
     {
@@ -1957,16 +1997,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=97051"
     },
     {
-      "id": "25-312",
-      "agency": "CPSC",
-      "date": "2025-06-05",
-      "title": "ZRWD Infant Swings Recalled Due to Risk of Serious Injury or Death from Suffocation Hazard; Multiple Federal Safety Violations; Sold Exclusively on Amazon.com by ZRWD",
-      "category": "Cribs & Sleep",
-      "hazard": "The swings pose a deadly suffocation risk because they were marketed for infant sleep and they have an incline angle greater than 10 degrees, in violation of the CPSC’s Sleep Products Standard and Sleep for Babies Act.",
-      "remedy": "Consumers should immediately stop using the recalled infant swings and contact ZRWD for a full refund. Consumers should send a photo of the swing cover cut in half and of the swing with “Recalled” written with permanent marker on its base to zrwdrecall@163.comand then dispose of the swing.",
-      "url": "https://www.cpsc.gov/Recalls/2025/ZRWD-Infant-Swings-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Hazard-Multiple-Federal-Safety-Violations-Sold-Exclusively-on-Amazon-com-by-ZRWD"
-    },
-    {
       "id": "25-314",
       "agency": "CPSC",
       "date": "2025-06-05",
@@ -1977,26 +2007,6 @@
       "url": "https://www.cpsc.gov/Recalls/2025/Hobby-Toy-Hammer-Ball-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violation-of-Federal-Regulation-for-Toys-with-Small-Balls-Sold-Exclusively-on-Amazon-com-by-Shantou-Haochengheng-Technology"
     },
     {
-      "id": "25-315",
-      "agency": "CPSC",
-      "date": "2025-06-05",
-      "title": "ZHORANGE Portable Bassinets Recalled Due to Risk of Serious Injury or Death from Fall Hazard; Violation of Federal Standard for Infant Sleep Products; Sold on Amazon.com by DFD Trading",
-      "category": "Cribs & Sleep",
-      "hazard": "The recalled portable bassinets violate the federal safety standard for Sleep Products because the sides are too low to contain the infant and the portable bassinets do not have a stand, posing a fall hazard. These violations create an unsafe sleeping environment for infants.",
-      "remedy": "Consumers should immediately stop using the recalled portable bassinets and contact DFD Trading for a full refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/ZHORANGE-Portable-Bassinets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violation-of-Federal-Standard-for-Infant-Sleep-Products-Sold-on-Amazon-com-by-DFD-Trading"
-    },
-    {
-      "id": "25-316",
-      "agency": "CPSC",
-      "date": "2025-06-05",
-      "title": "Portable Hook-On Chairs Recalled Due to Risk of Serious Injury or Death from Fall Hazard; Violation of the Federal Standard for Portable Hook-On Chairs; Sold Exclusively on Amazon.com by Ravmix",
-      "category": "Feeding & High Chairs",
-      "hazard": "The recalled portable hook-on chair poses a deadly fall hazard because the crotch restraint can be removed without the use of a tool and infants can fall through an opening, which is a violation of the federal standard for portable hook-on chairs.",
-      "remedy": "Consumers should stop using the hook-on chair immediately and contact Ravmix for information on how to receive a refund. Consumers will be instructed on how to disassemble the product, cut the restraint straps and cloth seat, and email photos of the disassembled product and parts to Ravmix.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Portable-Hook-On-Chairs-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violation-of-the-Federal-Standard-for-Portable-Hook-On-Chairs-Sold-Exclusively-on-Amazon-com-by-Ravmix"
-    },
-    {
       "id": "25-318",
       "agency": "CPSC",
       "date": "2025-06-05",
@@ -2005,16 +2015,6 @@
       "hazard": "The recalled high chairs pose a deadly entrapment hazard because the opening between the seat and tray is large enough that a child can become entrapped in it. In addition, the child restraint system can fail, posing a fall hazard. These are violations of the federal standards for high chairs.",
       "remedy": "Consumers should stop using the recalled high chair immediately, disassemble it and contact Ecogoods for information on how to receive a full refund.",
       "url": "https://www.cpsc.gov/Recalls/2025/Funlio-Convertible-High-Chairs-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violation-of-Federal-Standards-for-High-Chairs-Sold-by-Ecogoods"
-    },
-    {
-      "id": "25-305",
-      "agency": "CPSC",
-      "date": "2025-05-29",
-      "title": "BASDEHEN Brand Kitchen Faucets Recalled Due to Dangerous Lead Exposure for Young Children; Sold on Amazon.com by Chenfeng Store",
-      "category": "Other Children's Products",
-      "hazard": "The recalled faucets were tested and found to contain lead that can leach into water at levels that can be particularly harmful to infants and young children.",
-      "remedy": "Consumers should immediately stop using these faucets and contact Chenfeng Store about disposal and a refund. Consumers will need to provide a photograph of disposal to receive the refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/BASDEHEN-Brand-Kitchen-Faucets-Recalled-Due-to-Dangerous-Lead-Exposure-for-Young-Children-Sold-on-Amazon-com-by-Chenfeng-Store"
     }
   ]
 }
