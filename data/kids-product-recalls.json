@@ -3,11 +3,11 @@
   "description": "Normalized CPSC, NHTSA, and FDA recall records for children's products, refreshed weekly by KindlyKiddo.",
   "homepage": "https://www.kindlykiddo.com/kids-product-recalls/",
   "repository": "https://github.com/kindlykiddo/kids-product-recalls",
-  "fetchedAt": "2026-09-14T19:54:20.909Z",
+  "fetchedAt": "2026-09-21T20:03:43.079Z",
   "coverage": {
     "recordCount": 200,
-    "startDate": "2025-06-05",
-    "endDate": "2026-09-03"
+    "startDate": "2025-06-18",
+    "endDate": "2026-09-10"
   },
   "officialSources": [
     "https://www.cpsc.gov/Recalls",
@@ -16,6 +16,46 @@
   ],
   "license": "https://www.usa.gov/government-works",
   "recalls": [
+    {
+      "id": "26-752",
+      "agency": "CPSC",
+      "date": "2026-09-10",
+      "title": "Sweet Cubby Recalls Children's Loungewear Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Children’s Sleepwear",
+      "category": "Children's Clothing & Accessories",
+      "hazard": "The recalled children’s loungewear sets violate the mandatory flammability standard for children’s sleepwear, posing a risk of serious burn injuries or death.",
+      "remedy": "Consumers should stop using the recalled loungewear sets immediately, take them away from children and contact Sweet Cubby for a full refund. Consumers will be asked to destroy the loungewear sets by cutting them in half and send a photo of the destroyed loungewear sets to SweetCubby@163.com.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Sweet-Cubby-Recalls-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear"
+    },
+    {
+      "id": "26-753",
+      "agency": "CPSC",
+      "date": "2026-09-10",
+      "title": "SQT Recalls Lontcs Busy Boards Due to Risk of Serious Injury from Lead Poisoning; Violate Federal Lead Paint Ban",
+      "category": "Other Children's Products",
+      "hazard": "The toys’ zipper contains levels of lead that exceed the standard set in the federal lead paint ban. Lead is toxic if ingested by young children and can cause adverse health issues.",
+      "remedy": "Consumers should stop using the busy boards immediately and contact SQT for a full refund. Consumers will be asked to destroy the toys by unscrewing its components, write in permanent marker “RECALLED” on the board, and send a photo of the destroyed toy to Lontcs@163.com.",
+      "url": "https://www.cpsc.gov/Recalls/2026/SQT-Recalls-Lontcs-Busy-Boards-Due-to-Risk-of-Serious-Injury-from-Lead-Poisoning-Violate-Federal-Lead-Paint-Ban"
+    },
+    {
+      "id": "26-761",
+      "agency": "CPSC",
+      "date": "2026-09-10",
+      "title": "Cade California Electronic Recalls Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The recalled finger lights violate the mandatory safety standard for toys because the toys contain button cell batteries that can be easily accessed by children.",
+      "remedy": "Consumers should stop using the recalled toys immediately, take them away from children and contact Cade California Electronic for a full refund. Consumers will be asked to properly dispose of the finger lights into the trash and send a photo of the disposed product to ccecamazonservice@gmail.com.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Cade-California-Electronic-Recalls-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
+    {
+      "id": "26-766",
+      "agency": "CPSC",
+      "date": "2026-09-10",
+      "title": "ZMC Group Expands Recall of Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The recalled light-up toys violate the mandatory safety standard for children’s toys because the toys contain button cell batteries that can be easily accessed by children.",
+      "remedy": "Consumers should stop using the toys immediately, take them away from children and contact ZMC Group for a full refund.",
+      "url": "https://www.cpsc.gov/Recalls/2026/ZMC-Group-Expands-Recall-of-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
     {
       "id": "26-732",
       "agency": "CPSC",
@@ -1975,46 +2015,6 @@
       "hazard": "A child seat with an incorrect instruction manual may result in improper installation and an improperly restrained child, which can increase the risk of injury in a crash.",
       "remedy": "Evenflo will mail owners information on how to inspect and replace the instruction manual, free of charge. Owner notification letters were mailed July 15, 2025. Owners may contact Evenflo customer service at 1-800-233-5921.",
       "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C008000"
-    },
-    {
-      "id": "25-336",
-      "agency": "CPSC",
-      "date": "2025-06-12",
-      "title": "Bugaboo North America Recalls Giraffe High Chairs Due to Risk of Serious Injury or Death from Fall Hazard",
-      "category": "Feeding & High Chairs",
-      "hazard": "The highchairs pose a fall hazard and risk of serious injury or death to babies because the legs of the chair can detach from the frame if the screws connecting the legs are not properly tightened during assembly.",
-      "remedy": "Consumers should immediately stop using the recalled highchairs and contact Bugaboo to receive a free repair kit including an Allen key and new screws to install into the product’s legs. Bugaboo is contacting all known purchasers directly.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Bugaboo-North-America-Recalls-Giraffe-High-Chairs-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard"
-    },
-    {
-      "id": "H-0235-2025",
-      "agency": "FDA",
-      "date": "2025-06-07",
-      "title": "UNFI General Corporate Recalls 1. USA ORGC BOK CHOY 2. USA/MEX OG2 BABY BOKCHOY",
-      "category": "Other Children's Products",
-      "hazard": "May be contaminated with fluid from a reach truck",
-      "remedy": "FDA Class II enforcement recall; status: terminated.",
-      "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=97051"
-    },
-    {
-      "id": "25-314",
-      "agency": "CPSC",
-      "date": "2025-06-05",
-      "title": "Hobby Toy Hammer Ball Sets Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violation of Federal Regulation for Toys with Small Balls; Sold Exclusively on Amazon.com by Shantou Haochengheng Technology",
-      "category": "Toys & Games",
-      "hazard": "The toy sets contain small balls that violate regulations for toys intended for children under three years of age because they are a choking hazard and can cause serious injury or death.",
-      "remedy": "Consumers should stop using the recalled toys immediately and contact Shantou Haochengheng Technology for information on how to destroy the product and obtain a full refund. Shantou Haochengheng Technology and Amazon are also contacting all known purchasers directly.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Hobby-Toy-Hammer-Ball-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violation-of-Federal-Regulation-for-Toys-with-Small-Balls-Sold-Exclusively-on-Amazon-com-by-Shantou-Haochengheng-Technology"
-    },
-    {
-      "id": "25-318",
-      "agency": "CPSC",
-      "date": "2025-06-05",
-      "title": "Funlio Convertible High Chairs Recalled Due to Risk of Serious Injury or Death from Fall and Entrapment Hazards; Violation of Federal Standards for High Chairs; Sold by Ecogoods",
-      "category": "Feeding & High Chairs",
-      "hazard": "The recalled high chairs pose a deadly entrapment hazard because the opening between the seat and tray is large enough that a child can become entrapped in it. In addition, the child restraint system can fail, posing a fall hazard. These are violations of the federal standards for high chairs.",
-      "remedy": "Consumers should stop using the recalled high chair immediately, disassemble it and contact Ecogoods for information on how to receive a full refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Funlio-Convertible-High-Chairs-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Entrapment-Hazards-Violation-of-Federal-Standards-for-High-Chairs-Sold-by-Ecogoods"
     }
   ]
 }
