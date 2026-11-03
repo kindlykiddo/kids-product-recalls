@@ -3,11 +3,11 @@
   "description": "Normalized CPSC, NHTSA, and FDA recall records for children's products, refreshed weekly by KindlyKiddo.",
   "homepage": "https://www.kindlykiddo.com/kids-product-recalls/",
   "repository": "https://github.com/kindlykiddo/kids-product-recalls",
-  "fetchedAt": "2026-09-21T20:03:43.079Z",
+  "fetchedAt": "2026-10-26T20:40:03.425Z",
   "coverage": {
     "recordCount": 200,
-    "startDate": "2025-06-18",
-    "endDate": "2026-09-10"
+    "startDate": "2025-07-31",
+    "endDate": "2026-10-15"
   },
   "officialSources": [
     "https://www.cpsc.gov/Recalls",
@@ -16,6 +16,126 @@
   ],
   "license": "https://www.usa.gov/government-works",
   "recalls": [
+    {
+      "id": "27-027",
+      "agency": "CPSC",
+      "date": "2026-10-15",
+      "title": "Papablic, of USA Recalls Convertible Bedside Sleepers Due to Risk of Serious Injury or Death from Entrapment, Suffocation and Fall Hazards; Violate Mandatory Standard for Play Yards",
+      "category": "Cribs & Sleep",
+      "hazard": "The bedside sleepers with play yard extensions violate the mandatory safety standard for yards because the mattress can become displaced causing a baby to become entrapped between the sleeping pad and bottom posing a deadly suffocation hazard.",
+      "remedy": "Consumers should stop using the convertible bedside sleeper immediately and contact Papablic for a refund. Consumers will be asked to disassemble the product, cut the mattress and fabric components in half and email photos of the destroyed components to support@papablic.com.",
+      "url": "https://www.cpsc.gov/Recalls/2027/Papablic-of-USA-Recalls-Convertible-Bedside-Sleepers-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Suffocation-and-Fall-Hazards-Violate-Mandatory-Standard-for-Play-Yards"
+    },
+    {
+      "id": "27-018",
+      "agency": "CPSC",
+      "date": "2026-10-08",
+      "title": "ONTHEWEI Recalls Baby Bath Seats Due to Risk of Serious Injury or Death to Children from Drowning; Violate Mandatory Standard for Infant Bath Seats",
+      "category": "Bath & Potty",
+      "hazard": "The recalled bath seats violate the mandatory standard for infant bath seats because they are unstable and can tip over while in use, posing a risk of serious injury or death due to drowning.",
+      "remedy": "Consumers should stop using the recalled bath seats immediately and contact ONTHEWEI for a full refund.",
+      "url": "https://www.cpsc.gov/Recalls/2027/ONTHEWEI-Recalls-Baby-Bath-Seats-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Drowning-Violate-Mandatory-Standard-for-Infant-Bath-Seats"
+    },
+    {
+      "id": "27-003",
+      "agency": "CPSC",
+      "date": "2026-10-01",
+      "title": "ABC Trading Recalls Squishy Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The squishy toys violate the mandatory safety standard for toys because the water beads inside the toys expand larger than permitted, posing a deadly ingestion hazard.",
+      "remedy": "Consumers should stop using the squishy toys immediately and contact ABC Trading for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the squishy toys, throw the toy away and email a photo of the disposed toy to recallabc@gmail.com.",
+      "url": "https://www.cpsc.gov/Recalls/2027/ABC-Trading-Recalls-Squishy-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
+    {
+      "id": "27-006",
+      "agency": "CPSC",
+      "date": "2026-10-01",
+      "title": "LLK Trading Recalls Mochi Malrang Mystery Dumpling Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The mystery dumpling toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard.",
+      "remedy": "Consumers should stop using the mystery dumpling toys immediately and contact LLK Trading for a full refund.",
+      "url": "https://www.cpsc.gov/Recalls/2027/LLK-Trading-Recalls-Mochi-Malrang-Mystery-Dumpling-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
+    {
+      "id": "27-008",
+      "agency": "CPSC",
+      "date": "2026-10-01",
+      "title": "GBYMIUY Recalls Magnetic Stick Figure Toy Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The magnetic stick figure toy sets violate the mandatory standard for toys because they can liberate loose high-powered magnets posing an ingestion hazard to children.",
+      "remedy": "Consumers should take the stick figures away from children immediately, stop using them and contact GBYMIUY for a full refund. Consumers will be asked to throw away the stick figure toys and send a photo of the disposed toys to zhangfa0426@outlook.com.",
+      "url": "https://www.cpsc.gov/Recalls/2027/GBYMIUY-Recalls-Magnetic-Stick-Figure-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
+    {
+      "id": "26-798",
+      "agency": "CPSC",
+      "date": "2026-09-24",
+      "title": "Love To Dream Recalls Portable Sleep Machines Due to Risk of Injury from Fire and Burn Hazards",
+      "category": "Baby Electronics & Monitors",
+      "hazard": "The lithium-ion battery in the recalled portable sleep machines can overheat if the charger is not compatible with the unit, posing a risk of injury from fire and burn hazards.",
+      "remedy": "Consumers should stop using the recalled sleep machines immediately and register at to receive a full refund. Consumers should have the model number and date code, which can be found on the side of the unit, when they register.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Love-To-Dream-Recalls-Portable-Sleep-Machines-Due-to-Risk-of-Injury-from-Fire-and-Burn-Hazards"
+    },
+    {
+      "id": "26-799",
+      "agency": "CPSC",
+      "date": "2026-09-24",
+      "title": "ABC Trading Recalls Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The recalled children’s toys violate the mandatory standard for toys because they contain button cell batteries and the compartments that hold the batteries can be easily accessed by children, posing a deadly ingestion hazard to children.",
+      "remedy": "Consumers should stop using the recalled light-up toys immediately and contact ABC Trading for a refund. Consumers will be asked to email recallabc@gmail.com a photograph showing the product being disposed of in the trash. Note: Button cell batteries are hazardous.",
+      "url": "https://www.cpsc.gov/Recalls/2026/ABC-Trading-Recalls-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
+    {
+      "id": "26-774",
+      "agency": "CPSC",
+      "date": "2026-09-17",
+      "title": "Colerinsec Recalls Jerify Magnetic Stick Figure Toy Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The magnetic humanoid toy Sets violate the mandatory standard for toys because they can liberate loose high-powered magnets posing an ingestion hazard to children.",
+      "remedy": "Consumers should take the magnetic humanoid toys away from children immediately, stop using them and contact Colerinsec for a full refund. Consumers will be asked to throw away the magnetic toys and submit a photo of the disposed toys to coushdwugintwer@163.com.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Colerinsec-Recalls-Jerify-Magnetic-Stick-Figure-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
+    {
+      "id": "26-775",
+      "agency": "CPSC",
+      "date": "2026-09-17",
+      "title": "Esjay US Recalls Toddler Busy Board Montessori Toys Due to Risk of Serious Injury or Death from Choking; Violates Small Parts Ban",
+      "category": "Toys & Games",
+      "hazard": "The recalled toy violates the small parts ban because the product is for children under three years of age and the red knobs can detach, posing a deadly choking hazard.",
+      "remedy": "Consumers should take the recalled toy away from children, stop using it immediately and contact Esjay for instructions on the repair. Consumers will be asked to unzip the page with red knobs, write “RECALLED” on both sides of the page and throw it away.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Esjay-US-Recalls-Toddler-Busy-Board-Montessori-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violates-Small-Parts-Ban"
+    },
+    {
+      "id": "26-780",
+      "agency": "CPSC",
+      "date": "2026-09-17",
+      "title": "Melissa & Doug Recalls Fire Truck Activity Board Toys Due to Risk of Serious Injury from Choking Hazard; Sold Exclusively at Target",
+      "category": "Toys & Games",
+      "hazard": "The fire hose port can come loose and detach, posing a risk of serious injury from choking hazard.",
+      "remedy": "Consumers should stop using the fire truck activity board immediately and register at for instructions on how to receive a free replacement fire truck activity board, register for a full refund of $30 in the form of a check or receive a $40 melissaanddoug.com store credit.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Melissa-and-Doug-Recalls-Fire-Truck-Activity-Board-Toys-Due-to-Risk-of-Serious-Injury-from-Choking-Hazard-Sold-Exclusively-at-Target"
+    },
+    {
+      "id": "26-782",
+      "agency": "CPSC",
+      "date": "2026-09-17",
+      "title": "SHEIN Distribution Corporation Recalls Pull and Chew Montessori Teething Toys Due to Risk of Serious Injury or Death from Choking Hazard; Violate Mandatory Standard for Toys",
+      "category": "Feeding & High Chairs",
+      "hazard": "The recalled teething toys violate the mandatory safety standard for toys because the silicone strings are smaller and longer than permitted. The silicone strings can reach the back of the throat and become lodged, posing a risk of respiratory distress and a deadly choking hazard.",
+      "remedy": "Consumers should stop using the recalled teething toys immediately, take them away from children, and contact SHEIN for a refund. Consumers will be asked to cut the teething toy’s silicone strings and send a photo of the destroyed toy to productrecall@shein.com.",
+      "url": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Pull-and-Chew-Montessori-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Mandatory-Standard-for-Toys"
+    },
+    {
+      "id": "26-786",
+      "agency": "CPSC",
+      "date": "2026-09-17",
+      "title": "Toyworld168 Recalls Rainbow Mystery Squishy Bun Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The squishy bun toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard.",
+      "remedy": "Consumers should stop using the squishy dumpling toys immediately and contact Toyworld168 for a full refund.",
+      "url": "https://www.cpsc.gov/Recalls/2026/Toyworld168-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
     {
       "id": "26-752",
       "agency": "CPSC",
@@ -143,7 +263,7 @@
       "title": "Britax Child Safety, Inc. Recalls Child Restraints: Child Seat Carrying Handle May Detach",
       "category": "Car Seats",
       "hazard": "A child may fall after a partial detachment, increasing the risk of injury.",
-      "remedy": "The remedy is currently under development. Owner notification letters are expected to be mailed by October 19, 2026. Owners may contact Britax customer service at 888-427-4829.",
+      "remedy": "The remedy is currently under development. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
       "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
     },
     {
@@ -273,7 +393,7 @@
       "title": "Evenflo Company, Inc. Recalls Child Restraints: Incorrect Indicator for Recline Position/FMVSS 213",
       "category": "Car Seats",
       "hazard": "A child seat that is not reclined as intended increases the risk of injury in a crash.",
-      "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed beginning September 1, 2026. Additional letters will be sent once the remedy is available, anticipated November 2026.",
+      "remedy": "Evenflo will mail owners a bubble level indicator replacement with installation instructions, free of charge. Interim letters, notifying owners of the safety risk, were mailed September 30, 2026. Additional letters will be sent once the remedy is available, anticipated November 2026.",
       "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C005000"
     },
     {
@@ -363,7 +483,7 @@
       "title": "Evenflo Company, Inc. Recalls Child Restraints: Headrest Position May Shift in a Crash/FMVSS 213",
       "category": "Car Seats",
       "hazard": "A headrest that shifts unexpectedly may increase the risk of injury in a crash.",
-      "remedy": "The remedy for this recall is currently under development. Interim letters, notifying owners of the safety risk, were mailed September 1, 2026. Additional letters will be sent once the remedy is available. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "remedy": "Evenflo will mail owners a structural component with installation instructions, free of charge. Interim letters, notifying owners of the safety risk, were mailed September 1, 2026. Additional letters will be sent once the remedy is available.",
       "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C004000"
     },
     {
@@ -1877,16 +1997,6 @@
       "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=97401"
     },
     {
-      "id": "25-413",
-      "agency": "CPSC",
-      "date": "2025-07-31",
-      "title": "Tegu Recalls Magnetic Floating Stackers Toys Due to Magnet Ingestion Hazard; Risk of Serious Injury or Death; Violates Mandatory Standard for Toy Magnets",
-      "category": "Toys & Games",
-      "hazard": "The recalled magnetic floating stackers toys violate the mandatory standard for toy magnets because they contain magnets that can loosen and detach from the toy, posing an ingestion hazard to children.",
-      "remedy": "Consumers should take the product away from children immediately and contact Tegu for instructions on receiving a free replacement stacker toy.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Tegu-Recalls-Magnetic-Floating-Stackers-Toys-Due-to-Magnet-Ingestion-Hazard-Risk-of-Serious-Injury-or-Death-Violates-Mandatory-Standard-for-Toy-Magnets"
-    },
-    {
       "id": "25-415",
       "agency": "CPSC",
       "date": "2025-07-31",
@@ -1905,116 +2015,6 @@
       "hazard": "The recalled children’s loungewear violates the flammability standards for children’s sleepwear, posing a risk of burn injuries and death to children.",
       "remedy": "Consumers should stop using the recalled dresses immediately and contact Baby Loren for information on how to return the recalled dresses free of cost for a full refund. Baby Loren is contacting all known purchasers directly.",
       "url": "https://www.cpsc.gov/Recalls/2025/Baby-Loren-Recalls-Morning-Childrens-Loungewear-Due-to-Serious-Risk-of-Injury-or-Death-from-Burns-Violation-of-Federal-Flammability-Standards-for-Childrens-Sleepwear"
-    },
-    {
-      "id": "25-398",
-      "agency": "CPSC",
-      "date": "2025-07-24",
-      "title": "LED Gloves Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violates the Mandatory Toy Standard and Child Resistant Coin Battery Packaging Standard; Sold on Amazon by Minongad",
-      "category": "Toys & Games",
-      "hazard": "The recalled LED gloves violate the mandatory standard for toys containing coin batteries because the compartment that holds the batteries can be easily accessed and opened by children.",
-      "remedy": "Consumers should immediately stop using the recalled LED gloves, take them away from children and dispose of them. Contact Minongad for a full refund. Note: Button cell and coin batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
-      "url": "https://www.cpsc.gov/Recalls/2025/LED-Gloves-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-the-Mandatory-Toy-Standard-and-Child-Resistant-Coin-Battery-Packaging-Standard-Sold-on-Amazon-by-Minongad"
-    },
-    {
-      "id": "25-404",
-      "agency": "CPSC",
-      "date": "2025-07-24",
-      "title": "Innovative Designs Recalls Minecraft Light-Up Slap Ruler Bracelets Due to Risk of Serious Injury or Death from Button Cell Battery Ingestion Hazard; Violates Mandatory Standard for Toys",
-      "category": "Toys & Games",
-      "hazard": "The battery compartment of the recalled light-up ruler bracelets can be opened easily by children, allowing access to the button cell batteries, violating the battery-operated toys requirements under the mandatory standard for toys.",
-      "remedy": "Consumers should immediately stop using the recalled Minecraft Light-Up Ruler Bracelets and take them away from children. Contact Innovative Designs for information on disposal and for a full refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Innovative-Designs-Recalls-Minecraft-Light-Up-Slap-Ruler-Bracelets-Due-to-Risk-of-Serious-Injury-or-Death-from-Button-Cell-Battery-Ingestion-Hazard-Violates-Mandatory-Standard-for-Toys"
-    },
-    {
-      "id": "25-379",
-      "agency": "CPSC",
-      "date": "2025-07-10",
-      "title": "Creekliybear Play Yard Mattresses Recalled Due to Risk of Serious Injury or Death from Entrapment Hazard; Violates Mandatory Standard for Crib Mattresses; Sold on Amazon by Kbabyea",
-      "category": "Cribs & Sleep",
-      "hazard": "The aftermarket play yard mattresses violate the mandatory standard for mattresses, as the mattresses exceed thickness requirements and may not adequately fit certain play yards, posing a deadly entrapment hazard.",
-      "remedy": "Consumers should immediately stop using the mattresses and contact Kbabyea for a full refund. Consumers should cut the mattresses in half and send a photo of the cut-mattress in the waste bin to Kbabyearecall@outlook.com to receive a full refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Creekliybear-Play-Yard-Mattresses-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Hazard-Violates-Mandatory-Standard-for-Crib-Mattresses-Sold-on-Amazon-by-Kbabyea"
-    },
-    {
-      "id": "25-382",
-      "agency": "CPSC",
-      "date": "2025-07-10",
-      "title": "SPPTTY Kids Bicycles Recalled Due to Risk of Death or Injury from Lead Poisoning; Violates Federal Lead Content Ban; Sold at Walmart by Shenzhen Yihuachuang Technology",
-      "category": "Bikes, Scooters & Ride-ons",
-      "hazard": "Multiple components of the children’s bicycles contain levels of lead that exceed the federal lead content ban, posing a lead poisoning hazard to children. In addition, the black paint on the bicycle pumps contains lead that exceeds the federal lead paint ban.",
-      "remedy": "Consumers should stop using the recalled children’s bicycles immediately and contact Shenzhen Yihuachuang Technology for a full refund. To receive a refund, consumers should dismantle the bicycles, take a photo, and send the photo by email to lishkjie@163.com.",
-      "url": "https://www.cpsc.gov/Recalls/2025/SPPTTY-Kids-Bicycles-Recalled-Due-to-Risk-of-Death-or-Injury-from-Lead-Poisoning-Violates-Federal-Lead-Content-Ban-Sold-at-Walmart-by-Shenzhen-Yihuachuang-Technology"
-    },
-    {
-      "id": "25-383",
-      "agency": "CPSC",
-      "date": "2025-07-10",
-      "title": "Braided Crib Bumpers Recalled Due to Risk of Serious Injury or Death from Suffocation; Violates Federal Crib Bumper Ban; Sold on Amazon by Haoyunm",
-      "category": "Cribs & Sleep",
-      "hazard": "The recalled crib bumpers violate the federal ban on crib bumpers because the padded crib bumpers can obstruct breathing, posing a risk of serious injury or death to infants from suffocation. Padded crib bumpers are banned by the Federal Safe Sleep for Babies Act.",
-      "remedy": "Consumers should stop using the crib bumpers, remove them from the crib immediately and contact Haoyunm for a refund. Consumers should cut the bumper in half, take a photo of it, and email the photo to hyzhongtshung@outlook.com.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Braided-Crib-Bumpers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violates-Federal-Crib-Bumper-Ban-Sold-on-Amazon-by-Haoyunm"
-    },
-    {
-      "id": "25-384",
-      "agency": "CPSC",
-      "date": "2025-07-10",
-      "title": "AUGNORYE Padded Crib Bumpers Recalled Due to Risk of Serious Injury or Death from Suffocation; Violates Federal Crib Bumper Ban; Sold on Amazon by YIXIA",
-      "category": "Cribs & Sleep",
-      "hazard": "The recalled padded cushioned crib bumpers violate the federal crib bumper ban because they can obstruct an infant’s breathing, posing a suffocation hazard. This creates an unsafe sleeping environment for infants. Padded crib bumpers are banned by the Sleep for Babies Act.",
-      "remedy": "Consumers should immediately stop using the recalled padded cushioned crib bumpers and contact YIXIA for a full refund. Consumers should remove the crib bumpers, cut the straps and padding and email a photo of the destroyed bumpers to Yixiakejirecall@163.com to obtain a full refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/AUGNORYE-Padded-Crib-Bumpers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violates-Federal-Crib-Bumper-Ban-Sold-on-Amazon-by-YIXIA"
-    },
-    {
-      "id": "25-372",
-      "agency": "CPSC",
-      "date": "2025-07-03",
-      "title": "SNLN Party Supply Toys Recalled Due to Ingestion Hazard; Risk of Serious Injury or Death; Federal Toy Standard Violation; Sold Exclusively on Amazon by Yiwu Dixikeji Douxiangongsi",
-      "category": "Toys & Games",
-      "hazard": "The recalled party supply toys violate the mandatory standard for toys containing button cell batteries because the compartment that holds the batteries can be easily accessed and opened by children, posing a deadly ingestion hazard to children.When button cell or coin batteries are swallowed, the i…",
-      "remedy": "Consumers should immediately stop using the recalled party supply toys and take them away from children. Contact Yiwu Dixikeji Douxiangongsi for a full refund. To receive a refund, consumers should send a photo of the recalled toys being disposed of in the trash by email at dixikeji@gmail.com.",
-      "url": "https://www.cpsc.gov/Recalls/2025/SNLN-Party-Supply-Toys-Recalled-Due-to-Ingestion-Hazard-Risk-of-Serious-Injury-or-Death-Federal-Toy-Standard-Violation-Sold-Exclusively-on-Amazon-by-Yiwu-Dixikeji-Douxiangongsi"
-    },
-    {
-      "id": "25-361",
-      "agency": "CPSC",
-      "date": "2025-06-26",
-      "title": "Boyro Baby Walkers Recalled Due to Risk of Serious Injury or Death to Children from Fall Hazard; Violations of the Federal Standard for Infant Walkers and Lead Content Ban; Sold Exclusively on Amazon.com",
-      "category": "Strollers & Carriers",
-      "hazard": "The recalled baby walkers violate the federal safety standard for infant walkers because they can fit through a standard doorway and fail to stop at the edge of a step as required, posing a risk of serious injury or death due to a fall hazard.",
-      "remedy": "Consumers should stop using and disassemble the recalled baby walkers immediately and contact Boyro Baby for instructions on receiving a full refund. Consumers will be asked to destroy the disassembled baby walker and email three photos of the destroyed product to boyrobaby@outlook.com.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Boyro-Baby-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Fall-Hazard-Violations-of-the-Federal-Standard-for-Infant-Walkers-and-Lead-Content-Ban-Sold-Exclusively-on-Amazon-com"
-    },
-    {
-      "id": "25-706",
-      "agency": "CPSC",
-      "date": "2025-06-26",
-      "title": "Peg Perego Recalls Tatamia 3-in-1 Recliners, Swings and High Chairs Due to Risk of Suffocation; Violations of Multiple Federal Standards (Recall Alert)",
-      "category": "Feeding & High Chairs",
-      "hazard": "The 3-in-1 products pose a suffocation risk because they were marketed for infant sleep, and they have an incline angle greater than 10 degrees, in violation of the Sleep Products Rule and Sleep for Babies Act.",
-      "remedy": "Consumers should immediately stop using the recalled products and contact Peg Perego for a full refund. Consumers should contact Peg Perego for a prepaid shipping label and packaging to send the products back to Peg Perego. Peg Perego and Amazon are contacting all known purchasers directly.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Peg-Perego-Recalls-Tatamia-3-in-1-Recliners-Swings-and-High-Chairs-Due-to-Risk-of-Suffocation-Violations-of-Multiple-Federal-Standards-Recall-Alert"
-    },
-    {
-      "id": "25-345",
-      "agency": "CPSC",
-      "date": "2025-06-18",
-      "title": "TADAKAZU Baby Loungers Recalled Due to Risk of Serious Injury or Death from Suffocation, Fall and Entrapment Hazards; Violations of Federal Standard for Infant Sleep Products; Sold on Amazon",
-      "category": "Cribs & Sleep",
-      "hazard": "The recalled portable baby loungers violate the federal safety standards for Sleep Products because the sides are shorter than the minimum side height limit to secure the infant; the sleeping pad’s thickness exceeds the maximum limit, posing a suffocation hazard; and an infant could fall out of an e…",
-      "remedy": "Consumers should immediately stop using the recalled baby loungers and contact TADAKAZU for a full refund.",
-      "url": "https://www.cpsc.gov/Recalls/2025/TADAKAZU-Baby-Loungers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Fall-and-Entrapment-Hazards-Violations-of-Federal-Standard-for-Infant-Sleep-Products-Sold-on-Amazon"
-    },
-    {
-      "id": "25C008000",
-      "agency": "NHTSA",
-      "date": "2025-06-18",
-      "title": "Evenflo Company, Inc. Recalls Child Restraints: Missing Instruction Manual/FMVSS 213",
-      "category": "Car Seats",
-      "hazard": "A child seat with an incorrect instruction manual may result in improper installation and an improperly restrained child, which can increase the risk of injury in a crash.",
-      "remedy": "Evenflo will mail owners information on how to inspect and replace the instruction manual, free of charge. Owner notification letters were mailed July 15, 2025. Owners may contact Evenflo customer service at 1-800-233-5921.",
-      "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C008000"
     }
   ]
 }
