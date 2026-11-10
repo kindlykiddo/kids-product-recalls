@@ -3,11 +3,11 @@
   "description": "Normalized CPSC, NHTSA, and FDA recall records for children's products, refreshed weekly by KindlyKiddo.",
   "homepage": "https://www.kindlykiddo.com/kids-product-recalls/",
   "repository": "https://github.com/kindlykiddo/kids-product-recalls",
-  "fetchedAt": "2026-10-26T20:40:03.425Z",
+  "fetchedAt": "2026-11-02T23:10:28.017Z",
   "coverage": {
     "recordCount": 200,
-    "startDate": "2025-07-31",
-    "endDate": "2026-10-15"
+    "startDate": "2025-08-07",
+    "endDate": "2026-10-22"
   },
   "officialSources": [
     "https://www.cpsc.gov/Recalls",
@@ -16,6 +16,36 @@
   ],
   "license": "https://www.usa.gov/government-works",
   "recalls": [
+    {
+      "id": "27-038",
+      "agency": "CPSC",
+      "date": "2026-10-22",
+      "title": "FoShanShiNanHaiQuNuoAiTongZhuangShangHang Recalls CIYTI Light-Up Princess Costumes Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The costumes violate the mandatory safety standard for toys because the button cell batteries can be accessed easily by children, posing a deadly ingestion hazard.",
+      "remedy": "Consumers should take the princess costumes away from children immediately, stop using them and contact FoShanShiNanHaiQuNuoAiTongZhuangShangHang for a full refund.",
+      "url": "https://www.cpsc.gov/Recalls/2027/FoShanShiNanHaiQuNuoAiTongZhuangShangHang-Recalls-CIYTI-Light-Up-Princess-Costumes-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
+    {
+      "id": "27-040",
+      "agency": "CPSC",
+      "date": "2026-10-22",
+      "title": "Costway Recalls Convertible High Chairs Due to Risk of Serious Injury or Death from Entrapment and Fall Hazards; Violate Mandatory Standard for High Chairs",
+      "category": "Feeding & High Chairs",
+      "hazard": "The convertible high chairs violate the mandatory safety standard for high chairs because they do not contain a passive restraint system and a child can slip through the opening between the feeding tray and seat and become entrapped or fall, posing a risk of serious injury or death.",
+      "remedy": "Consumers should immediately stop using the recalled high chairs and contact Costway for a free replacement high chair. Consumers will be asked to provide a receipt or a photo of the product and will receive a prepaid label to return the recalled product to Costway.",
+      "url": "https://www.cpsc.gov/Recalls/2027/Costway-Recalls-Convertible-High-Chairs-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Fall-Hazards-Violate-Mandatory-Standard-for-High-Chairs"
+    },
+    {
+      "id": "27-042",
+      "agency": "CPSC",
+      "date": "2026-10-22",
+      "title": "BAMAMON Recalls LED Projecting Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+      "category": "Toys & Games",
+      "hazard": "The recalled finger lights violate the mandatory standard for toys because they contain button cell batteries and the compartments that hold the batteries can be easily accessed by children, posing a deadly ingestion hazard to children.",
+      "remedy": "Consumers should stop using the toys immediately and contact Bamamon. Consumers will be asked to email a photograph showing the product being properly disposed of in the trash to bamamonproductrecall@outlook.com. Note: Button cell batteries are hazardous.",
+      "url": "https://www.cpsc.gov/Recalls/2027/BAMAMON-Recalls-LED-Projecting-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys"
+    },
     {
       "id": "27-027",
       "agency": "CPSC",
@@ -35,6 +65,16 @@
       "hazard": "The recalled bath seats violate the mandatory standard for infant bath seats because they are unstable and can tip over while in use, posing a risk of serious injury or death due to drowning.",
       "remedy": "Consumers should stop using the recalled bath seats immediately and contact ONTHEWEI for a full refund.",
       "url": "https://www.cpsc.gov/Recalls/2027/ONTHEWEI-Recalls-Baby-Bath-Seats-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Drowning-Violate-Mandatory-Standard-for-Infant-Bath-Seats"
+    },
+    {
+      "id": "H-0168-2027",
+      "agency": "FDA",
+      "date": "2026-10-06",
+      "title": "Pacific Health Sciences Llc Recalls Babies' Magic Tea; Baby Sleep Gripe Water; Dietary Supplement; Net Wt. 4 OZ; Age 2eeks+ \"No Alcohol, Dairy, Wheat, Soy And Animal Testing\" UPC: 850302008183",
+      "category": "Other Children's Products",
+      "hazard": "Adulterated (elevated levels of alcohol) infant dietary supplement",
+      "remedy": "FDA Class II enforcement recall; status: ongoing.",
+      "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=100068"
     },
     {
       "id": "27-003",
@@ -263,7 +303,7 @@
       "title": "Britax Child Safety, Inc. Recalls Child Restraints: Child Seat Carrying Handle May Detach",
       "category": "Car Seats",
       "hazard": "A child may fall after a partial detachment, increasing the risk of injury.",
-      "remedy": "The remedy is currently under development. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
+      "remedy": "Britax will mail owners retention clips with installation instructions, free of charge. Owner notification letters were mailed September 30, 2026. Owners may contact Britax customer service at 888-427-4829.",
       "url": "https://www.nhtsa.gov/recalls?nhtsaId=26C006000"
     },
     {
@@ -1229,7 +1269,7 @@
     {
       "id": "26C002000",
       "agency": "NHTSA",
-      "date": "2026-02-25",
+      "date": "2026-02-26",
       "title": "Evenflo Company, Inc. Recalls Child Restraints: Incorrect Information in Spanish Language Manual/FMVSS 213",
       "category": "Car Seats",
       "hazard": "Incorrect information in the manual may result in an improperly restrained child, increasing the risk of injury in a crash.",
@@ -1389,7 +1429,7 @@
     {
       "id": "26C001000",
       "agency": "NHTSA",
-      "date": "2026-01-20",
+      "date": "2026-01-21",
       "title": "Evenflo Company, Inc. Recalls Child Restraints: Child Seat Missing Tether Strap",
       "category": "Car Seats",
       "hazard": "A child seat with a missing tether strap may not adequately protect a child in a crash, increasing the risk of injury.",
@@ -1857,6 +1897,16 @@
       "url": "https://www.cpsc.gov/Recalls/2026/In-Motion-Design-Recalls-Evermore-Surprise-Eggs-Due-to-Risk-of-Serious-Injury-Violates-Federal-Lead-Content-Ban"
     },
     {
+      "id": "25C010000",
+      "agency": "NHTSA",
+      "date": "2025-09-26",
+      "title": "Evenflo Company, Inc. Recalls Child Restraints: Choking Hazard from Foam in Child Seat Headrest",
+      "category": "Car Seats",
+      "hazard": "Pieces of foam can present a choking hazard to a child, increasing the risk of injury.",
+      "remedy": "Evenflo will mail owners additional tape seal and installation instructions, free of charge. Owner notification letters were mailed November 21, 2025. Owners may contact Evenflo customer service at 1-800-233-5921.",
+      "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C010000"
+    },
+    {
       "id": "25-476",
       "agency": "CPSC",
       "date": "2025-09-25",
@@ -1865,16 +1915,6 @@
       "hazard": "The cooling gel pads can become hot if left in the sun or a hot car, posing a burn hazard to young children.",
       "remedy": "Consumers should immediately stop using the recalled Cooling Gel Insert Pad and contact AMTRADING for instructions on receiving a full refund. Consumers can go to for instructions on how to register for the recall and to dispose of the recalled pad.",
       "url": "https://www.cpsc.gov/Recalls/2025/AMTRADING-Recalls-Hoovy-Cooling-Gel-Insert-Pads-for-Car-Seats-and-Strollers-Due-to-Burn-Hazard"
-    },
-    {
-      "id": "25C010000",
-      "agency": "NHTSA",
-      "date": "2025-09-25",
-      "title": "Evenflo Company, Inc. Recalls Child Restraints: Choking Hazard from Foam in Child Seat Headrest",
-      "category": "Car Seats",
-      "hazard": "Pieces of foam can present a choking hazard to a child, increasing the risk of injury.",
-      "remedy": "Evenflo will mail owners additional tape seal and installation instructions, free of charge. Owner notification letters were mailed November 21, 2025. Owners may contact Evenflo customer service at 1-800-233-5921.",
-      "url": "https://www.nhtsa.gov/recalls?nhtsaId=25C010000"
     },
     {
       "id": "25-471",
@@ -1975,46 +2015,6 @@
       "hazard": "The recalled pet toys violate the mandatory standard for consumer products containing button cell or coin batteries as required by Law because the LED-illuminated plastic sphere can break upon impact, making the button cell batteries easily accessible to children, posing an ingestion hazard.",
       "remedy": "Consumers should immediately stop using the recalled pet toys and contact Petmate for a full refund. Note: Button cell and coin batteries are hazardous. If disposing of or recycling button cell or coin batteries, do so in a manner that follows local hazardous waste procedures.",
       "url": "https://www.cpsc.gov/Recalls/2025/Petmate-Recalls-Pet-Zone-Pet-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Ingestion-Hazard-Violation-of-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries-Sold-Exclusively-at-Menards"
-    },
-    {
-      "id": "25-422",
-      "agency": "CPSC",
-      "date": "2025-08-07",
-      "title": "TEMI Go Basketball Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violates Small Ball Ban; Sold on Amazon by Temitoys",
-      "category": "Toys & Games",
-      "hazard": "The recalled toy contains small balls and is intended for children under three years of age, which violates the small ball ban, posing a deadly choking hazard.",
-      "remedy": "Consumers should immediately take the toy away from children and contact TEMI Toys for a full refund. Consumers will be asked to throw the product away and send a photo of the disposed product to Temitoys@outlook.com.",
-      "url": "https://www.cpsc.gov/Recalls/2025/TEMI-Go-Basketball-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violates-Small-Ball-Ban-Sold-on-Amazon-by-Temitoys"
-    },
-    {
-      "id": "H-0576-2025",
-      "agency": "FDA",
-      "date": "2025-08-05",
-      "title": "M.O.M Enterprises, LLC. Recalls Organic BABY bedtime drops; sleep + immunity blend; Promotes restful sleep with natural herbs & supports immunity with elderberry & vitamin C; LIQUID DIETARY SU…",
-      "category": "Other Children's Products",
-      "hazard": "Potential for spoilage due to yeast contamination.",
-      "remedy": "FDA Class II enforcement recall; status: ongoing.",
-      "url": "https://www.accessdata.fda.gov/scripts/ires/index.cfm?Event=97401"
-    },
-    {
-      "id": "25-415",
-      "agency": "CPSC",
-      "date": "2025-07-31",
-      "title": "Backyard Kids Recalls KidKraft Farm to Table Play Kitchens Due to Strangulation Hazard; One Death Reported",
-      "category": "Toys & Games",
-      "hazard": "If young children are climbing on the counter or crawling through the opening at the back of the play kitchen, their clothing can get caught on the plastic or metal hooks meant to hold toy kitchen accessories such as play pots and pans, posing a strangulation hazard.",
-      "remedy": "Consumers should immediately stop using the play kitchens, remove the original hooks, and contact Backyard Kids for free replacement hooks.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Backyard-Kids-Recalls-KidKraft-Farm-to-Table-Play-Kitchens-Due-to-Strangulation-Hazard-One-Death-Reported"
-    },
-    {
-      "id": "25-419",
-      "agency": "CPSC",
-      "date": "2025-07-31",
-      "title": "Baby Loren Recalls Morning Children’s Loungewear Due to Serious Risk of Injury or Death from Burns; Violation of Federal Flammability Standards for Children’s Sleepwear",
-      "category": "Other Children's Products",
-      "hazard": "The recalled children’s loungewear violates the flammability standards for children’s sleepwear, posing a risk of burn injuries and death to children.",
-      "remedy": "Consumers should stop using the recalled dresses immediately and contact Baby Loren for information on how to return the recalled dresses free of cost for a full refund. Baby Loren is contacting all known purchasers directly.",
-      "url": "https://www.cpsc.gov/Recalls/2025/Baby-Loren-Recalls-Morning-Childrens-Loungewear-Due-to-Serious-Risk-of-Injury-or-Death-from-Burns-Violation-of-Federal-Flammability-Standards-for-Childrens-Sleepwear"
     }
   ]
 }
